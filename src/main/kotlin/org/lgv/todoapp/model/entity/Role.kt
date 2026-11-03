@@ -1,4 +1,4 @@
-package org.ldv.todoapp.model.entity
+package org.lgv.todoapp.model.entity
 
 import jakarta.persistence.*
 
