@@ -1,4 +1,4 @@
-package org.lgv.todoapp
+package org.ldv.todoapp
 
 import org.springframework.boot.autoconfigure.SpringBootApplication
 import org.springframework.boot.runApplication

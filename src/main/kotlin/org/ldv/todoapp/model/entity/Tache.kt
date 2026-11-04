@@ -1,4 +1,4 @@
-package org.lgv.todoapp.model.entity
+package org.ldv.todoapp.model.entity
 
 import jakarta.persistence.*
 import java.time.LocalDate

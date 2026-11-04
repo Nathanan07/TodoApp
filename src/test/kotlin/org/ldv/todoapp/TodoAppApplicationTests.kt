@@ -1,4 +1,4 @@
-package org.lgv.todoapp
+package org.ldv.todoapp
 
 import org.junit.jupiter.api.Test
 import org.springframework.boot.test.context.SpringBootTest
